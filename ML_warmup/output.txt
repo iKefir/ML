@@ -1,0 +1,8 @@
+{'classification__early_stopping_rounds': 5, 'classification__learning_rate': 0.25, 'feature_selection__k': 40}
+0.6916817359855335
+{'classification__early_stopping_rounds': 5, 'classification__learning_rate': 0.27, 'feature_selection__k': 40}
+0.6871609403254972
+{'classification__n_estimators': 250, 'feature_selection__k': 40}
+0.7396021699819169
+{'classification__n_estimators': 300, 'feature_selection__k': 50}
+0.7510548523206751
