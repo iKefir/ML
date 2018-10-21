@@ -10,89 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kNNClassifier/main.cpp"
-            timestampString = "561760859.0971349"
+            timestampString = "561851542.553231"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "316"
-            endingLineNumber = "316"
-            landmarkName = "GridSearchCV"
-            landmarkType = "14">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "GridSearchCV&lt;kNNClassifier&gt;::combine_params(std::__1::map&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::vector&lt;std::__1::any, std::__1::allocator&lt;std::__1::any&gt; &gt;, std::__1::less&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;, std::__1::allocator&lt;std::__1::pair&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const, std::__1::vector&lt;std::__1::any, std::__1::allocator&lt;std::__1::any&gt; &gt; &gt; &gt; &gt; const&amp;)"
-                  moduleName = "kNNClassifier"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/danilshkarupin/Documents/University/7Term/ML/tasks/kNNClassifier/kNNClassifier/main.cpp"
-                  timestampString = "561691642.744186"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "313"
-                  endingLineNumber = "313"
-                  offsetFromSymbolStart = "680">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "GridSearchCV&lt;kNNClassifier&gt;::combine_params(std::__1::map&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::vector&lt;std::__1::any, std::__1::allocator&lt;std::__1::any&gt; &gt;, std::__1::less&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;, std::__1::allocator&lt;std::__1::pair&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const, std::__1::vector&lt;std::__1::any, std::__1::allocator&lt;std::__1::any&gt; &gt; &gt; &gt; &gt; const&amp;)"
-                  moduleName = "kNNClassifier"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/danilshkarupin/Documents/University/7Term/ML/tasks/kNNClassifier/kNNClassifier/main.cpp"
-                  timestampString = "561691642.748245"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "313"
-                  endingLineNumber = "313"
-                  offsetFromSymbolStart = "1394">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "GridSearchCV&lt;kNNClassifier&gt;::combine_params(std::__1::map&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::vector&lt;std::__1::any, std::__1::allocator&lt;std::__1::any&gt; &gt;, std::__1::less&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;, std::__1::allocator&lt;std::__1::pair&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const, std::__1::vector&lt;std::__1::any, std::__1::allocator&lt;std::__1::any&gt; &gt; &gt; &gt; &gt; const&amp;)"
-                  moduleName = "kNNClassifier"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/danilshkarupin/Documents/University/7Term/ML/tasks/kNNClassifier/kNNClassifier/main.cpp"
-                  timestampString = "561691642.752282"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "313"
-                  endingLineNumber = "313"
-                  offsetFromSymbolStart = "1873">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "GridSearchCV&lt;kNNClassifier&gt;::combine_params(std::__1::map&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::vector&lt;std::__1::any, std::__1::allocator&lt;std::__1::any&gt; &gt;, std::__1::less&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;, std::__1::allocator&lt;std::__1::pair&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const, std::__1::vector&lt;std::__1::any, std::__1::allocator&lt;std::__1::any&gt; &gt; &gt; &gt; &gt; const&amp;)"
-                  moduleName = "kNNClassifier"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/danilshkarupin/Documents/University/7Term/ML/tasks/kNNClassifier/kNNClassifier/main.cpp"
-                  timestampString = "561691642.7564"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "313"
-                  endingLineNumber = "313"
-                  offsetFromSymbolStart = "2630">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "kNNClassifier/main.cpp"
-            timestampString = "561760859.0976681"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "385"
-            endingLineNumber = "385"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
             landmarkName = "GridSearchCV"
             landmarkType = "14">
          </BreakpointContent>
@@ -104,113 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kNNClassifier/main.cpp"
-            timestampString = "561760859.098016"
+            timestampString = "561851542.553827"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "290"
-            endingLineNumber = "290"
-            landmarkName = "GridSearchCV"
-            landmarkType = "14">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            condition = "i&gt;=classes.size()||i&gt;=predicted.size()"
-            continueAfterRunningActions = "No"
-            filePath = "kNNClassifier/main.cpp"
-            timestampString = "561760859.098358"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "390"
-            endingLineNumber = "390"
-            landmarkName = "GridSearchCV"
-            landmarkType = "14">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            condition = "i&gt;=classes.size()||i&gt;=predicted.size()"
-            continueAfterRunningActions = "No"
-            filePath = "kNNClassifier/main.cpp"
-            timestampString = "561760859.098681"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "394"
-            endingLineNumber = "394"
-            landmarkName = "GridSearchCV"
-            landmarkType = "14">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            condition = "classes[i]&gt;=tp.size()"
-            continueAfterRunningActions = "No"
-            filePath = "kNNClassifier/main.cpp"
-            timestampString = "561760859.099002"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "392"
-            endingLineNumber = "392"
-            landmarkName = "GridSearchCV"
-            landmarkType = "14">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            condition = "classes[i]&gt;=fp.size()"
-            continueAfterRunningActions = "No"
-            filePath = "kNNClassifier/main.cpp"
-            timestampString = "561760859.099317"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "396"
-            endingLineNumber = "396"
-            landmarkName = "GridSearchCV"
-            landmarkType = "14">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            condition = "classes[i]&gt;=fn.size()"
-            continueAfterRunningActions = "No"
-            filePath = "kNNClassifier/main.cpp"
-            timestampString = "561760859.099633"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "398"
-            endingLineNumber = "398"
-            landmarkName = "GridSearchCV"
-            landmarkType = "14">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            condition = "i&gt;=to_val.size()"
-            continueAfterRunningActions = "No"
-            filePath = "kNNClassifier/main.cpp"
-            timestampString = "561760859.0999449"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "389"
-            endingLineNumber = "389"
+            startingLineNumber = "276"
+            endingLineNumber = "276"
             landmarkName = "GridSearchCV"
             landmarkType = "14">
          </BreakpointContent>
@@ -222,11 +42,43 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kNNClassifier/main.cpp"
-            timestampString = "561760859.100256"
+            timestampString = "561851542.554368"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "291"
             endingLineNumber = "291"
+            landmarkName = "GridSearchCV"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kNNClassifier/main.cpp"
+            timestampString = "561851542.554907"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "301"
+            endingLineNumber = "301"
+            landmarkName = "GridSearchCV"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kNNClassifier/main.cpp"
+            timestampString = "561851542.555434"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "323"
+            endingLineNumber = "323"
             landmarkName = "GridSearchCV"
             landmarkType = "14">
          </BreakpointContent>
